@@ -11,11 +11,11 @@ Hello there! I'm a French **AI & Machine Learning Engineer** passionate about bu
 
 > **🛠️ Languages & Frameworks**
 >
-> [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow)](https://skillicons.dev)
 >
 > **⚙️ Tools & Technologies**
 >
-> [![My Tools](https://skillicons.dev/icons?i=git,github,docker,linux,bash)](https://skillicons.dev)
+> [![My Tools](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)
 >
 > **💻 Development Environment**
 >
