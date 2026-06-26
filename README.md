@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello World! 👋
 
 <!--
-**leo62-glitch/leo62-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  "The best way to predict the future is to invent it."
+      Alan Kay
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+Hello there! I'm a French **AI & Machine Learning Engineer** passionate about building intelligent systems with Python.
+
+> **🛠️ Languages & Frameworks**
+>
+> [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn)](https://skillicons.dev)
+>
+> **⚙️ Tools & Technologies**
+>
+> [![My Tools](https://skillicons.dev/icons?i=git,github,docker,linux,bash)](https://skillicons.dev)
+>
+> **💻 Development Environment**
+>
+> [![My IDEs](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
+## 🚀 About Me
+
+* 🧠 Passionate about Artificial Intelligence and Deep Learning
+* 🐍 Python developer
+* 🔥 Building models with **PyTorch** & **TensorFlow**
+* 👁️ Interested in Computer Vision, NLP, and Generative AI
+* 📚 Always learning new AI technologies
+
+## 📫 Let's Connect
+
+Feel free to explore my repositories or reach out if you'd like to collaborate on AI projects!
