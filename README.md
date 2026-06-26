@@ -25,10 +25,12 @@ Hello there! I'm a French **AI & Machine Learning Engineer** passionate about bu
 
 * 🧠 Passionate about Artificial Intelligence and Deep Learning
 * 🐍 Python developer
-* 🔥 Building models with **PyTorch** & **TensorFlow**
-* 👁️ Interested in Computer Vision, NLP, and Generative AI
-* 📚 Always learning new AI technologies
+* 🤖 Building AI and Deep Learning models with **PyTorch** & **TensorFlow**
+* 👁️ Interested in Computer Vision, Natural Language Processing (NLP), and Generative AI
+* 📚 Always learning and exploring new AI technologies
 
-## 📫 Let's Connect
+## 📫 Contact
+
+* 📧 **Email:** **[leopantel36@gmail.com](mailto:leopantel36@gmail.com)**
 
 Feel free to explore my repositories or reach out if you'd like to collaborate on AI projects!
